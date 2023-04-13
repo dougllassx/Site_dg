@@ -1,16 +1,43 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    DG hookay
+<h1>Meus Hobbies</h1>
+  
+<!-- você pode seguir o seguinte exemplo para montar os próximos setores -->
+  <div>
+    <!-- setor 1 -->
+    
+    <!-- título da imagem -->
+    <h2>Futebol</h2>
+    
+    <!-- imagem -->
+    <img src=https://jornaltribuna.com.br/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-08-at-14.17.18-1-1024x768.jpeg
+    
+    <!-- link para página sobre a imagem -->
+    <a href=https://www.osfanaticos.com.br/sobre#:~:text=Desde%201977,e%20se%20tornou%20uma%20refer%C3%AAncia.target="_blank">Sobre Os Fanaticos</a>
+  </div>
+  
+  <div>
+    <!-- setor 2 -->
+    
+    <!-- título da imagem -->
+    <h3>TRAP THE FATO</h3>
+    
+    <!-- imagem -->
+    <img src= https://frenezirevista.files.wordpress.com/2022/05/capas-frenezi-4-1.png?w=770&h=500&crop=1alt="mine">
+    
+    <!-- link para página sobre a imagem -->
+    <!-- substitua a cerquilha(#) pela url -->
+    <a href=https://pt.wikipedia.org/wiki/Trap target="_blank">Sobre o TRAP</a>
+  </div>
+  
+  <div>
+    <!-- setor 3 -->
+    
+    <h4>Narguile</h4>
+    
+    <img src= https://st4.depositphotos.com/5528884/21447/i/600/depositphotos_214471412-stock-photo-trendy-hookah-with-cloud-of.jpgalt="naga">
+    
+    <a href="https://g2narguile.com.br/produtos/kit-narguile-turbo8/" target="_blank">Sobre o Narguile</a>
+    
+  </div>
+  
+  
 </body>
-</html>
-<li>
-<li> dg hookay</li>
-<ul>
-</header>
