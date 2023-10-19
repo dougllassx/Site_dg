@@ -1,11 +1,13 @@
-<h1>Meus Hobbies</h1>
+<h1>HUMANOS SENSÍVEIS</h1>
   
 <!-- você pode seguir o seguinte exemplo para montar os próximos setores -->
   <div>
     <!-- setor 1 -->
     
     <!-- título da imagem -->
-    <h2>Futebol</h2>
+    <h2>AQUI UM POUCO SOBRE NOS</h2>
+
+    
     
     <!-- imagem -->
     <img src=https://jornaltribuna.com.br/wp-content/uploads/2022/06/WhatsApp-Image-2022-06-08-at-14.17.18-1-1024x768.jpeg
@@ -18,7 +20,7 @@
     <!-- setor 2 -->
     
     <!-- título da imagem -->
-    <h3>TRAP THE FATO</h3>
+    <h3>CATALOOGO DE PRODUTOS</h3>
     
     <!-- imagem -->
     <img src= https://frenezirevista.files.wordpress.com/2022/05/capas-frenezi-4-1.png?w=770&h=500&crop=1alt="mine">
@@ -31,7 +33,7 @@
   <div>
     <!-- setor 3 -->
     
-    <h4>Narguile</h4>
+    <h4>A SUA DISPOSIÇÃO NOSSA EQUIPE</h4>
     
     <img src= https://st4.depositphotos.com/5528884/21447/i/600/depositphotos_214471412-stock-photo-trendy-hookah-with-cloud-of.jpgalt="naga">
     
